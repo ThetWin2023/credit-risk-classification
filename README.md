@@ -1,9 +1,9 @@
 # credit-risk-classification
 
-# Data Analytics and Visualization Bootcamp - University of Toronto
-# Module 20 Challenge 
-# Date: September 24, 2024
-# Name: Thet Win
+## Data Analytics and Visualization Bootcamp - University of Toronto
+### Module 20 Challenge 
+### Date: September 24, 2024
+### Name: Thet Win
 
 
 ## Overview of the Analysis
